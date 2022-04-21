@@ -6,6 +6,7 @@ export class Box extends Component {
     return (
       <div className='box'>
           {this.props.titulo}
+          
       </div>
     )
   }
